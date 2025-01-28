@@ -35,7 +35,6 @@ The Linux Foundation Certified System Administrator (LFCS) exam is a performance
 
 - [Linux Foundation Training](https://training.linuxfoundation.org/training/linux-system-administration-essentials-lfs207/)
 - :heavy_check_mark: [Udemy/KodeKloud LFCS Preparation Course](https://www.udemy.com/course/linux-foundation-certified-systems-administrator-lfcs/) 
-
 - [Coursera Linux Courses](https://www.coursera.org/courses?query=linux)
 </details>
 
@@ -45,16 +44,14 @@ The Linux Foundation Certified System Administrator (LFCS) exam is a performance
 
 ### Books
 
-
-
 ### Community and Forums
 
 
-## Tips for Success
+## :heavy_check_mark: Personal Tips for Success
 
-- **Practice Regularly**: Hands-on practice is crucial for success in the LFCS exam.
+- :heavy_check_mark: **Practice Regularly**: Hands-on practice is crucial for success in the LFCS exam.
 - **Join Study Groups**: Collaborate with others preparing for the exam.
-- **Use Multiple Resources**: Diversify your study materials to cover all exam topics.
+- **Use Multiple Resources**: Complete one course and the Diversify your study materials to cover all exam topics.
 - **Stay Updated**: Ensure you are familiar with the latest Linux distributions and updates.
 
 Good luck with your LFCS exam preparation!
