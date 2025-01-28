@@ -34,7 +34,7 @@ The Linux Foundation Certified System Administrator (LFCS) exam is a performance
   <summary>Paid</summary>
 
 - [Linux Foundation Training](https://training.linuxfoundation.org/training/linux-system-administration-essentials-lfs207/)
-- [Udemy/KodeKloud LFCS Preparation Course](https://www.udemy.com/course/linux-foundation-certified-systems-administrator-lfcs/) :heavy_check_mark:
+- :heavy_check_mark: [Udemy/KodeKloud LFCS Preparation Course](https://www.udemy.com/course/linux-foundation-certified-systems-administrator-lfcs/) 
 
 - [Coursera Linux Courses](https://www.coursera.org/courses?query=linux)
 </details>
